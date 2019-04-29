@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_image_poke">64dp</dimen>
+    <dimen name="text_pokemon_name">32sp</dimen>
+    <dimen name="general_padding">10dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="bit_text">40sp</dimen>
+    <dimen name="midium_text">25sp</dimen>
+    <dimen name="big_m_text">30dp</dimen>
+</resources>
